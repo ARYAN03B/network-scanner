@@ -1,4 +1,4 @@
-import scapy
+import scapy.all as scapy
 
 def scan(target_ip, port_range):
     ip_packet = scapy.IP(dst=target_ip)
