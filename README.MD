@@ -6,7 +6,7 @@ A Python tool for scanning a network for open ports, services, and vulnerabiliti
 
 1. Clone this repository:
 
-    git clone https://github.com/yourusername/network-scanner.git
+    git clone https://github.com/ARYAN03B/network-scanner.git
 
 2. Install the dependencies:
 
